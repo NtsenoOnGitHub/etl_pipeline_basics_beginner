@@ -13,14 +13,13 @@ def extract_kaggle_data(file_path: str, file_name: str):
     try:
         return kagglehub.load_dataset(kagglehub.KaggleDatasetAdapter.PANDAS, file_path ,file_name,)
     except:
-        error_message = f'Something went wrong while extracting data from Kaggle. Double check the filepath and filename for typos {datetime.datetime.now()}\n'
-        errorslogfilepath = 'logs/program_errors.log'
+        error_message = f'Error: Something went wrong while extracting data from Kaggle. Double check the filepath and filename for typos @{datetime.datetime.now()}\n'
 
-        if os.path.exists(errorslogfilepath):
-            with open('logs/program_errors.log', "a") as file:
+        if os.path.exists('logs/program.log'):
+            with open('logs/program.log', "a") as file:
                 file.write(error_message)
         else:
-            file = open("logs/program_errors.log", "x")
+            file = open("logs/program.log", "x")
             file.write(error_message)
 
 

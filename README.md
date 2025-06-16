@@ -24,3 +24,4 @@ o	Schedule the pipeline to run daily or hourly.
 - implementing log file and tracking program erros
 - learning about .env file for my api keys
 - documenting my functions
+- Unit testing on my functions
