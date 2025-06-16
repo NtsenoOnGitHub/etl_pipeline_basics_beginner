@@ -2,6 +2,7 @@ import requests
 import kagglehub
 import os
 import datetime
+from write_to_log import log
 
 api_key = os.getenv('API_KEY')
 
@@ -14,14 +15,7 @@ def extract_kaggle_data(file_path: str, file_name: str):
         return kagglehub.load_dataset(kagglehub.KaggleDatasetAdapter.PANDAS, file_path ,file_name,)
     except:
         error_message = f'Error: Something went wrong while extracting data from Kaggle. Double check the filepath and filename for typos @{datetime.datetime.now()}\n'
-
-        if os.path.exists('logs/program.log'):
-            with open('logs/program.log', "a") as file:
-                file.write(error_message)
-        else:
-            file = open("logs/program.log", "x")
-            file.write(error_message)
-
+        log(error_message)
 
 # Extract data from openWeatherMap using API kEY
 # - APIKEY is your secret api key from your openWeatherMap account

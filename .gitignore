@@ -4,6 +4,9 @@
 # Ignore Python virtual environment
 venv/
 
+# Ignore temporary jupyter notebook
+temp_notebook.ipynb
+
 # Ignore Python bytecode
 __pycache__/
 *.py[cod]
