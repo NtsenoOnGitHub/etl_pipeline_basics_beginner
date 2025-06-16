@@ -3,6 +3,7 @@ import requests
 import os
 import datetime
 from write_to_log import log
+import json
 
 api_key = os.getenv('API_KEY')
 
@@ -14,7 +15,7 @@ def extract_data(url: str):
         response = requests.get(url)
         return response.json()
     except:
-        error_message = f'Error: Something went wrong while extracting data from Kaggle. Double check the filepath and filename for typos @{datetime.datetime.now()}\n'
+        error_message = f'Error: Something went wrong while extracting data with your api key @{datetime.datetime.now()}\n'
         log(error_message)
 
 
@@ -28,11 +29,10 @@ if raw_data is None:
 elif isinstance(raw_data, list) or isinstance(raw_data, dict): # Public AIP call 
     log_message = f'Message: Data has been extracted successfuly from a public API on an API call @{datetime.datetime.now()}\n'
     log(log_message)
-    entries = raw_data[1]  # data[0] is metadata, data[1] contains the records
-    dataFrame = pd.DataFrame(entries) # Create DataFrame
-    dataFrame = dataFrame[['country', 'date', 'value']] # Take colums you intrested in
-    dataFrame["country"] = dataFrame["country"].apply(lambda x: x["value"]) # Clean up the messy columns
-    dataFrame.to_csv('data/raw/raw_data.csv')
+    with open('data/raw/raw_data.json', 'w', encoding='utf-8') as f:
+        json.dump(raw_data, f, ensure_ascii=False, indent=4)
+    log_message = f'Message: Data has been successfuly saved on the raw directory of the project @{datetime.datetime.now()}\n'
+    log(log_message)
 
 
 
