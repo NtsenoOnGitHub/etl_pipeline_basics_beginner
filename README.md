@@ -1,4 +1,4 @@
-## Project requiements
+# Project requiements
 Goal: Collect data from a source, clean and transform it, then store it in a database.
 Steps:
 1.	Data Extraction
