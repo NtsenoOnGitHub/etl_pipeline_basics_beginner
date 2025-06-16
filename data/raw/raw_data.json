@@ -18,8 +18,8 @@
                 "value": "Africa Eastern and Southern"
             },
             "countryiso3code": "AFE",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 750503764,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -34,8 +34,8 @@
                 "value": "Africa Western and Central"
             },
             "countryiso3code": "AFW",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 509398589,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -50,8 +50,8 @@
                 "value": "Arab World"
             },
             "countryiso3code": "ARB",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 481667539,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -66,8 +66,8 @@
                 "value": "Caribbean small states"
             },
             "countryiso3code": "CSS",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 3152394,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -82,8 +82,8 @@
                 "value": "Central Europe and the Baltics"
             },
             "countryiso3code": "CEB",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 100175859,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -98,8 +98,8 @@
                 "value": "Early-demographic dividend"
             },
             "countryiso3code": "EAR",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 3511076811,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -114,8 +114,8 @@
                 "value": "East Asia & Pacific"
             },
             "countryiso3code": "EAS",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 2384463611,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -130,8 +130,8 @@
                 "value": "East Asia & Pacific (excluding high income)"
             },
             "countryiso3code": "EAP",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 2137527754,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -146,8 +146,8 @@
                 "value": "East Asia & Pacific (IDA & IBRD countries)"
             },
             "countryiso3code": "TEA",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 2111139152,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -162,8 +162,8 @@
                 "value": "Euro area"
             },
             "countryiso3code": "EMU",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 349670802,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -178,8 +178,8 @@
                 "value": "Europe & Central Asia"
             },
             "countryiso3code": "ECS",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 924969865,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -194,8 +194,8 @@
                 "value": "Europe & Central Asia (excluding high income)"
             },
             "countryiso3code": "ECA",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 249146208,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -210,8 +210,8 @@
                 "value": "Europe & Central Asia (IDA & IBRD countries)"
             },
             "countryiso3code": "TEC",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 459025452,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -226,8 +226,8 @@
                 "value": "European Union"
             },
             "countryiso3code": "EUU",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 448804042,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -242,8 +242,8 @@
                 "value": "Fragile and conflict affected situations"
             },
             "countryiso3code": "FCS",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1058789534,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -258,8 +258,8 @@
                 "value": "Heavily indebted poor countries (HIPC)"
             },
             "countryiso3code": "HPC",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 917304254,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -274,8 +274,8 @@
                 "value": "High income"
             },
             "countryiso3code": "",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1400465513,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -290,8 +290,8 @@
                 "value": "IBRD only"
             },
             "countryiso3code": "IBD",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 4952574126,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -306,8 +306,8 @@
                 "value": "IDA & IBRD total"
             },
             "countryiso3code": "IBT",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 6858957145,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -322,8 +322,8 @@
                 "value": "IDA blend"
             },
             "countryiso3code": "IDB",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 633230238,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -338,8 +338,8 @@
                 "value": "IDA only"
             },
             "countryiso3code": "IDX",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1273152781,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -354,8 +354,8 @@
                 "value": "IDA total"
             },
             "countryiso3code": "IDA",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1906383019,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -370,8 +370,8 @@
                 "value": "Late-demographic dividend"
             },
             "countryiso3code": "LTE",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 2326658047,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -386,8 +386,8 @@
                 "value": "Latin America & Caribbean"
             },
             "countryiso3code": "LCN",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 657611624,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -402,8 +402,8 @@
                 "value": "Latin America & Caribbean (excluding high income)"
             },
             "countryiso3code": "LAC",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 594995068,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -418,8 +418,8 @@
                 "value": "Latin America & the Caribbean (IDA & IBRD countries)"
             },
             "countryiso3code": "TLA",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 642397939,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -434,8 +434,8 @@
                 "value": "Least developed countries: UN classification"
             },
             "countryiso3code": "LDC",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1160824674,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -450,8 +450,8 @@
                 "value": "Low & middle income"
             },
             "countryiso3code": "LMY",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 6633109634,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -466,8 +466,8 @@
                 "value": "Low income"
             },
             "countryiso3code": "",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 736466395,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -482,8 +482,8 @@
                 "value": "Lower middle income"
             },
             "countryiso3code": "",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 3079778780,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -498,8 +498,8 @@
                 "value": "Middle East & North Africa"
             },
             "countryiso3code": "MEA",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 508311359,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -514,8 +514,8 @@
                 "value": "Middle East & North Africa (excluding high income)"
             },
             "countryiso3code": "MNA",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 440118189,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -530,8 +530,8 @@
                 "value": "Middle East & North Africa (IDA & IBRD countries)"
             },
             "countryiso3code": "TMN",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 434952414,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -546,8 +546,8 @@
                 "value": "Middle income"
             },
             "countryiso3code": "MIC",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 5896643239,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -562,8 +562,8 @@
                 "value": "North America"
             },
             "countryiso3code": "NAC",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 375077354,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -578,7 +578,7 @@
                 "value": "Not classified"
             },
             "countryiso3code": "",
-            "date": "2024",
+            "date": "2023",
             "value": null,
             "unit": "",
             "obs_status": "",
@@ -594,8 +594,8 @@
                 "value": "OECD members"
             },
             "countryiso3code": "OED",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1385723403,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -610,8 +610,8 @@
                 "value": "Other small states"
             },
             "countryiso3code": "OSS",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 14411921,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -626,8 +626,8 @@
                 "value": "Pacific island small states"
             },
             "countryiso3code": "PSS",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 2689224,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -642,8 +642,8 @@
                 "value": "Post-demographic dividend"
             },
             "countryiso3code": "PST",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1119236161,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -658,8 +658,8 @@
                 "value": "Pre-demographic dividend"
             },
             "countryiso3code": "PRE",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1078224044,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -674,8 +674,8 @@
                 "value": "Small states"
             },
             "countryiso3code": "SST",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 20253539,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -690,8 +690,8 @@
                 "value": "South Asia"
             },
             "countryiso3code": "SAS",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1951539835,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -706,8 +706,8 @@
                 "value": "South Asia (IDA & IBRD)"
             },
             "countryiso3code": "TSA",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1951539835,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -722,8 +722,8 @@
                 "value": "Sub-Saharan Africa"
             },
             "countryiso3code": "SSF",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1259902353,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -738,8 +738,8 @@
                 "value": "Sub-Saharan Africa (excluding high income)"
             },
             "countryiso3code": "SSA",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1259782580,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -754,8 +754,8 @@
                 "value": "Sub-Saharan Africa (IDA & IBRD countries)"
             },
             "countryiso3code": "TSS",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1259902353,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -770,8 +770,8 @@
                 "value": "Upper middle income"
             },
             "countryiso3code": "",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 2816864459,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -786,8 +786,8 @@
                 "value": "World"
             },
             "countryiso3code": "WLD",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 8061876001,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -802,8 +802,8 @@
                 "value": "Afghanistan"
             },
             "countryiso3code": "AFG",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 41454761,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -818,8 +818,8 @@
                 "value": "Albania"
             },
             "countryiso3code": "ALB",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 2745972,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -834,8 +834,8 @@
                 "value": "Algeria"
             },
             "countryiso3code": "DZA",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 46164219,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -850,8 +850,8 @@
                 "value": "American Samoa"
             },
             "countryiso3code": "ASM",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 47521,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -866,8 +866,8 @@
                 "value": "Andorra"
             },
             "countryiso3code": "AND",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 80856,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -882,8 +882,8 @@
                 "value": "Angola"
             },
             "countryiso3code": "AGO",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 36749906,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -898,8 +898,8 @@
                 "value": "Antigua and Barbuda"
             },
             "countryiso3code": "ATG",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 93316,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -914,8 +914,8 @@
                 "value": "Argentina"
             },
             "countryiso3code": "ARG",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 45538401,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -930,8 +930,8 @@
                 "value": "Armenia"
             },
             "countryiso3code": "ARM",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 2990900,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -946,8 +946,8 @@
                 "value": "Aruba"
             },
             "countryiso3code": "ABW",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 107359,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -962,8 +962,8 @@
                 "value": "Australia"
             },
             "countryiso3code": "AUS",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 26658948,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -978,8 +978,8 @@
                 "value": "Austria"
             },
             "countryiso3code": "AUT",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 9131761,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -994,8 +994,8 @@
                 "value": "Azerbaijan"
             },
             "countryiso3code": "AZE",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 10153958,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1010,8 +1010,8 @@
                 "value": "Bahamas, The"
             },
             "countryiso3code": "BHS",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 399440,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1026,8 +1026,8 @@
                 "value": "Bahrain"
             },
             "countryiso3code": "BHR",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1577059,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1042,8 +1042,8 @@
                 "value": "Bangladesh"
             },
             "countryiso3code": "BGD",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 171466990,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1058,8 +1058,8 @@
                 "value": "Barbados"
             },
             "countryiso3code": "BRB",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 282336,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1074,8 +1074,8 @@
                 "value": "Belarus"
             },
             "countryiso3code": "BLR",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 9178298,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1090,8 +1090,8 @@
                 "value": "Belgium"
             },
             "countryiso3code": "BEL",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 11787423,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1106,8 +1106,8 @@
                 "value": "Belize"
             },
             "countryiso3code": "BLZ",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 411106,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1122,8 +1122,8 @@
                 "value": "Benin"
             },
             "countryiso3code": "BEN",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 14111034,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1138,8 +1138,8 @@
                 "value": "Bermuda"
             },
             "countryiso3code": "BMU",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 64698,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1154,8 +1154,8 @@
                 "value": "Bhutan"
             },
             "countryiso3code": "BTN",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 786385,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1170,8 +1170,8 @@
                 "value": "Bolivia"
             },
             "countryiso3code": "BOL",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 12244159,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1186,8 +1186,8 @@
                 "value": "Bosnia and Herzegovina"
             },
             "countryiso3code": "BIH",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 3185073,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1202,8 +1202,8 @@
                 "value": "Botswana"
             },
             "countryiso3code": "BWA",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 2480244,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1218,8 +1218,8 @@
                 "value": "Brazil"
             },
             "countryiso3code": "BRA",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 211140729,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1234,8 +1234,8 @@
                 "value": "British Virgin Islands"
             },
             "countryiso3code": "VGB",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 38985,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1250,8 +1250,8 @@
                 "value": "Brunei Darussalam"
             },
             "countryiso3code": "BRN",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 458949,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1266,8 +1266,8 @@
                 "value": "Bulgaria"
             },
             "countryiso3code": "BGR",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 6446596,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1282,8 +1282,8 @@
                 "value": "Burkina Faso"
             },
             "countryiso3code": "BFA",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 23025776,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1298,8 +1298,8 @@
                 "value": "Burundi"
             },
             "countryiso3code": "BDI",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 13689450,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1314,8 +1314,8 @@
                 "value": "Cabo Verde"
             },
             "countryiso3code": "CPV",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 522331,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1330,8 +1330,8 @@
                 "value": "Cambodia"
             },
             "countryiso3code": "KHM",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 17423880,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1346,8 +1346,8 @@
                 "value": "Cameroon"
             },
             "countryiso3code": "CMR",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 28372687,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1362,8 +1362,8 @@
                 "value": "Canada"
             },
             "countryiso3code": "CAN",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 40097761,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1378,8 +1378,8 @@
                 "value": "Cayman Islands"
             },
             "countryiso3code": "CYM",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 73038,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1394,8 +1394,8 @@
                 "value": "Central African Republic"
             },
             "countryiso3code": "CAF",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 5152421,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1410,8 +1410,8 @@
                 "value": "Chad"
             },
             "countryiso3code": "TCD",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 19319064,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1426,8 +1426,8 @@
                 "value": "Channel Islands"
             },
             "countryiso3code": "CHI",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 167691,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1442,8 +1442,8 @@
                 "value": "Chile"
             },
             "countryiso3code": "CHL",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 19658835,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1458,8 +1458,8 @@
                 "value": "China"
             },
             "countryiso3code": "CHN",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 1410710000,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1474,8 +1474,8 @@
                 "value": "Colombia"
             },
             "countryiso3code": "COL",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 52321152,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1490,8 +1490,8 @@
                 "value": "Comoros"
             },
             "countryiso3code": "COM",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 850387,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1506,8 +1506,8 @@
                 "value": "Congo, Dem. Rep."
             },
             "countryiso3code": "COD",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 105789731,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1522,8 +1522,8 @@
                 "value": "Congo, Rep."
             },
             "countryiso3code": "COG",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 6182885,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1538,8 +1538,8 @@
                 "value": "Costa Rica"
             },
             "countryiso3code": "CRI",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 5105525,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1554,8 +1554,8 @@
                 "value": "Cote d'Ivoire"
             },
             "countryiso3code": "CIV",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 31165654,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1570,8 +1570,8 @@
                 "value": "Croatia"
             },
             "countryiso3code": "HRV",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 3859686,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1586,8 +1586,8 @@
                 "value": "Cuba"
             },
             "countryiso3code": "CUB",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 11019931,
             "unit": "",
             "obs_status": "",
             "decimal": 0
@@ -1602,8 +1602,8 @@
                 "value": "Curacao"
             },
             "countryiso3code": "CUW",
-            "date": "2024",
-            "value": null,
+            "date": "2023",
+            "value": 147862,
             "unit": "",
             "obs_status": "",
             "decimal": 0

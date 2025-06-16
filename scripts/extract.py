@@ -20,7 +20,7 @@ def extract_data(url: str):
 
 
 # You can change the url parameters to get different data or change the url all together.
-raw_data = extract_data('https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2024&format=json&per_page=100')
+raw_data = extract_data('https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=100')
 
 
 if raw_data is None:
