@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from write_to_log import log
 import json
 
@@ -11,6 +12,7 @@ csv_data = csv_data[['country', 'countryiso3code', 'date', 'value']]
 csv_data['country'] = csv_data['country'].apply(lambda x: x['value'])
 columns = ['Country', 'Country_code', 'Date', 'Population_Value']
 csv_data.columns = columns
+csv_data.replace('', np.nan, inplace=True)
 csv_data.dropna(inplace=True)
 csv_data.drop_duplicates(keep='first', inplace=True)
 
