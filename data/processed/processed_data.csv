@@ -1,101 +1,100 @@
-,country,date,value
-0,Africa Eastern and Southern,2023,750503764.0
-1,Africa Western and Central,2023,509398589.0
-2,Arab World,2023,481667539.0
-3,Caribbean small states,2023,3152394.0
-4,Central Europe and the Baltics,2023,100175859.0
-5,Early-demographic dividend,2023,3511076811.0
-6,East Asia & Pacific,2023,2384463611.0
-7,East Asia & Pacific (excluding high income),2023,2137527754.0
-8,East Asia & Pacific (IDA & IBRD countries),2023,2111139152.0
-9,Euro area,2023,349670802.0
-10,Europe & Central Asia,2023,924969865.0
-11,Europe & Central Asia (excluding high income),2023,249146208.0
-12,Europe & Central Asia (IDA & IBRD countries),2023,459025452.0
-13,European Union,2023,448804042.0
-14,Fragile and conflict affected situations,2023,1058789534.0
-15,Heavily indebted poor countries (HIPC),2023,917304254.0
-16,High income,2023,1400465513.0
-17,IBRD only,2023,4952574126.0
-18,IDA & IBRD total,2023,6858957145.0
-19,IDA blend,2023,633230238.0
-20,IDA only,2023,1273152781.0
-21,IDA total,2023,1906383019.0
-22,Late-demographic dividend,2023,2326658047.0
-23,Latin America & Caribbean,2023,657611624.0
-24,Latin America & Caribbean (excluding high income),2023,594995068.0
-25,Latin America & the Caribbean (IDA & IBRD countries),2023,642397939.0
-26,Least developed countries: UN classification,2023,1160824674.0
-27,Low & middle income,2023,6633109634.0
-28,Low income,2023,736466395.0
-29,Lower middle income,2023,3079778780.0
-30,Middle East & North Africa,2023,508311359.0
-31,Middle East & North Africa (excluding high income),2023,440118189.0
-32,Middle East & North Africa (IDA & IBRD countries),2023,434952414.0
-33,Middle income,2023,5896643239.0
-34,North America,2023,375077354.0
-35,Not classified,2023,
-36,OECD members,2023,1385723403.0
-37,Other small states,2023,14411921.0
-38,Pacific island small states,2023,2689224.0
-39,Post-demographic dividend,2023,1119236161.0
-40,Pre-demographic dividend,2023,1078224044.0
-41,Small states,2023,20253539.0
-42,South Asia,2023,1951539835.0
-43,South Asia (IDA & IBRD),2023,1951539835.0
-44,Sub-Saharan Africa,2023,1259902353.0
-45,Sub-Saharan Africa (excluding high income),2023,1259782580.0
-46,Sub-Saharan Africa (IDA & IBRD countries),2023,1259902353.0
-47,Upper middle income,2023,2816864459.0
-48,World,2023,8061876001.0
-49,Afghanistan,2023,41454761.0
-50,Albania,2023,2745972.0
-51,Algeria,2023,46164219.0
-52,American Samoa,2023,47521.0
-53,Andorra,2023,80856.0
-54,Angola,2023,36749906.0
-55,Antigua and Barbuda,2023,93316.0
-56,Argentina,2023,45538401.0
-57,Armenia,2023,2990900.0
-58,Aruba,2023,107359.0
-59,Australia,2023,26658948.0
-60,Austria,2023,9131761.0
-61,Azerbaijan,2023,10153958.0
-62,"Bahamas, The",2023,399440.0
-63,Bahrain,2023,1577059.0
-64,Bangladesh,2023,171466990.0
-65,Barbados,2023,282336.0
-66,Belarus,2023,9178298.0
-67,Belgium,2023,11787423.0
-68,Belize,2023,411106.0
-69,Benin,2023,14111034.0
-70,Bermuda,2023,64698.0
-71,Bhutan,2023,786385.0
-72,Bolivia,2023,12244159.0
-73,Bosnia and Herzegovina,2023,3185073.0
-74,Botswana,2023,2480244.0
-75,Brazil,2023,211140729.0
-76,British Virgin Islands,2023,38985.0
-77,Brunei Darussalam,2023,458949.0
-78,Bulgaria,2023,6446596.0
-79,Burkina Faso,2023,23025776.0
-80,Burundi,2023,13689450.0
-81,Cabo Verde,2023,522331.0
-82,Cambodia,2023,17423880.0
-83,Cameroon,2023,28372687.0
-84,Canada,2023,40097761.0
-85,Cayman Islands,2023,73038.0
-86,Central African Republic,2023,5152421.0
-87,Chad,2023,19319064.0
-88,Channel Islands,2023,167691.0
-89,Chile,2023,19658835.0
-90,China,2023,1410710000.0
-91,Colombia,2023,52321152.0
-92,Comoros,2023,850387.0
-93,"Congo, Dem. Rep.",2023,105789731.0
-94,"Congo, Rep.",2023,6182885.0
-95,Costa Rica,2023,5105525.0
-96,Cote d'Ivoire,2023,31165654.0
-97,Croatia,2023,3859686.0
-98,Cuba,2023,11019931.0
-99,Curacao,2023,147862.0
+Country,Country_code,Date,Population_Value
+Africa Eastern and Southern,AFE,2023,750503764.0
+Africa Western and Central,AFW,2023,509398589.0
+Arab World,ARB,2023,481667539.0
+Caribbean small states,CSS,2023,3152394.0
+Central Europe and the Baltics,CEB,2023,100175859.0
+Early-demographic dividend,EAR,2023,3511076811.0
+East Asia & Pacific,EAS,2023,2384463611.0
+East Asia & Pacific (excluding high income),EAP,2023,2137527754.0
+East Asia & Pacific (IDA & IBRD countries),TEA,2023,2111139152.0
+Euro area,EMU,2023,349670802.0
+Europe & Central Asia,ECS,2023,924969865.0
+Europe & Central Asia (excluding high income),ECA,2023,249146208.0
+Europe & Central Asia (IDA & IBRD countries),TEC,2023,459025452.0
+European Union,EUU,2023,448804042.0
+Fragile and conflict affected situations,FCS,2023,1058789534.0
+Heavily indebted poor countries (HIPC),HPC,2023,917304254.0
+High income,,2023,1400465513.0
+IBRD only,IBD,2023,4952574126.0
+IDA & IBRD total,IBT,2023,6858957145.0
+IDA blend,IDB,2023,633230238.0
+IDA only,IDX,2023,1273152781.0
+IDA total,IDA,2023,1906383019.0
+Late-demographic dividend,LTE,2023,2326658047.0
+Latin America & Caribbean,LCN,2023,657611624.0
+Latin America & Caribbean (excluding high income),LAC,2023,594995068.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2023,642397939.0
+Least developed countries: UN classification,LDC,2023,1160824674.0
+Low & middle income,LMY,2023,6633109634.0
+Low income,,2023,736466395.0
+Lower middle income,,2023,3079778780.0
+Middle East & North Africa,MEA,2023,508311359.0
+Middle East & North Africa (excluding high income),MNA,2023,440118189.0
+Middle East & North Africa (IDA & IBRD countries),TMN,2023,434952414.0
+Middle income,MIC,2023,5896643239.0
+North America,NAC,2023,375077354.0
+OECD members,OED,2023,1385723403.0
+Other small states,OSS,2023,14411921.0
+Pacific island small states,PSS,2023,2689224.0
+Post-demographic dividend,PST,2023,1119236161.0
+Pre-demographic dividend,PRE,2023,1078224044.0
+Small states,SST,2023,20253539.0
+South Asia,SAS,2023,1951539835.0
+South Asia (IDA & IBRD),TSA,2023,1951539835.0
+Sub-Saharan Africa,SSF,2023,1259902353.0
+Sub-Saharan Africa (excluding high income),SSA,2023,1259782580.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2023,1259902353.0
+Upper middle income,,2023,2816864459.0
+World,WLD,2023,8061876001.0
+Afghanistan,AFG,2023,41454761.0
+Albania,ALB,2023,2745972.0
+Algeria,DZA,2023,46164219.0
+American Samoa,ASM,2023,47521.0
+Andorra,AND,2023,80856.0
+Angola,AGO,2023,36749906.0
+Antigua and Barbuda,ATG,2023,93316.0
+Argentina,ARG,2023,45538401.0
+Armenia,ARM,2023,2990900.0
+Aruba,ABW,2023,107359.0
+Australia,AUS,2023,26658948.0
+Austria,AUT,2023,9131761.0
+Azerbaijan,AZE,2023,10153958.0
+"Bahamas, The",BHS,2023,399440.0
+Bahrain,BHR,2023,1577059.0
+Bangladesh,BGD,2023,171466990.0
+Barbados,BRB,2023,282336.0
+Belarus,BLR,2023,9178298.0
+Belgium,BEL,2023,11787423.0
+Belize,BLZ,2023,411106.0
+Benin,BEN,2023,14111034.0
+Bermuda,BMU,2023,64698.0
+Bhutan,BTN,2023,786385.0
+Bolivia,BOL,2023,12244159.0
+Bosnia and Herzegovina,BIH,2023,3185073.0
+Botswana,BWA,2023,2480244.0
+Brazil,BRA,2023,211140729.0
+British Virgin Islands,VGB,2023,38985.0
+Brunei Darussalam,BRN,2023,458949.0
+Bulgaria,BGR,2023,6446596.0
+Burkina Faso,BFA,2023,23025776.0
+Burundi,BDI,2023,13689450.0
+Cabo Verde,CPV,2023,522331.0
+Cambodia,KHM,2023,17423880.0
+Cameroon,CMR,2023,28372687.0
+Canada,CAN,2023,40097761.0
+Cayman Islands,CYM,2023,73038.0
+Central African Republic,CAF,2023,5152421.0
+Chad,TCD,2023,19319064.0
+Channel Islands,CHI,2023,167691.0
+Chile,CHL,2023,19658835.0
+China,CHN,2023,1410710000.0
+Colombia,COL,2023,52321152.0
+Comoros,COM,2023,850387.0
+"Congo, Dem. Rep.",COD,2023,105789731.0
+"Congo, Rep.",COG,2023,6182885.0
+Costa Rica,CRI,2023,5105525.0
+Cote d'Ivoire,CIV,2023,31165654.0
+Croatia,HRV,2023,3859686.0
+Cuba,CUB,2023,11019931.0
+Curacao,CUW,2023,147862.0

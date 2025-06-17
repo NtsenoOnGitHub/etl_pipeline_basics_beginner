@@ -1,17 +1,20 @@
 import pandas as pd
-import extract
-import os
-import datetime
-import requests
 from write_to_log import log
 import json
 
 # Load the data from a JSON file
 with open('data/raw/raw_data.json', 'r', encoding='utf-8') as f:
-    raw_data = json.load(f)
+    json_data = json.load(f)
 
-entries = raw_data[1]  # data[0] is metadata, data[1] contains the records
-dataFrame = pd.DataFrame(entries) # Create DataFrame
-dataFrame = dataFrame[['country', 'date', 'value']] # Take colums you intrested in
-dataFrame["country"] = dataFrame["country"].apply(lambda x: x["value"]) # Clean up the messy columns
-dataFrame.to_csv('data/processed/processed_data.csv')
+csv_data = pd.DataFrame(json_data[1])
+csv_data = csv_data[['country', 'countryiso3code', 'date', 'value']]
+csv_data['country'] = csv_data['country'].apply(lambda x: x['value'])
+columns = ['Country', 'Country_code', 'Date', 'Population_Value']
+csv_data.columns = columns
+csv_data.dropna(inplace=True)
+csv_data.drop_duplicates(keep='first', inplace=True)
+
+# Save the transfromed data into a csv file
+csv_data.to_csv('data/processed/processed_data.csv', index=False)
+
+csv_data = pd.read_csv('data/processed/processed_data.csv')
