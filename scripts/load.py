@@ -1,13 +1,17 @@
 from google.cloud.sql.connector import Connector, IPTypes
 import sqlalchemy
 import pandas as pd
+from dotenv import load_dotenv
+import os
 
 
 connector = Connector()
-INSTANCE_CONNECTION_NAME = "bold-bastion-462618-b7:us-central1:etl-pipeline-project"
-DB_USER = "postgres"
-DB_PASS = "@N.N100%sql"
-DB_NAME = "etlpipelineDB"
+load_dotenv('config/.env')
+
+INSTANCE_CONNECTION_NAME = os.getenv('INSTANCE_CONNECTION_NAME')
+DB_USER = os.getenv('DB_USER')
+DB_PASS = os.getenv('DB_PASS')
+DB_NAME = os.getenv('DB_NAME')
 
 def getconn():
     conn = connector.connect(
@@ -29,9 +33,10 @@ engine = sqlalchemy.create_engine(
 csv_data = pd.read_csv('data/processed/processed_data.csv')
 
 query = "INSERT INTO Population (country, country_code, date, population) VALUES "
+buildString = ''
 
-for index, row in csv_data[0:2].iterrows():
-    if index != len(csv_data[0:2]) - 1:
+for index, row in csv_data.iterrows():
+    if index != len(csv_data) - 1:
         buildString = ''
         buildString += f'(\'{row["Country"]}\', \'{row["Country_code"]}\', \'{row["Date"]}\', {int(row["Population_Value"])}),'
         query += buildString
