@@ -25,3 +25,4 @@ o	Schedule the pipeline to run daily or hourly.
 - learning about .env file for my api keys
 - documenting my functions
 - Unit testing on my functions
+- Working with Public API
