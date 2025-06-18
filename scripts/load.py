@@ -2,6 +2,8 @@ from google.cloud.sql.connector import Connector, IPTypes
 import sqlalchemy
 import pandas as pd
 from dotenv import load_dotenv
+import datetime
+from write_to_log import log
 import os
 
 
@@ -50,3 +52,6 @@ with engine.connect() as conn:
     conn.commit()
 
 connector.close()
+
+log_message = f'Message {datetime.datetime.now()}: Transfromed Data has been successfuly saved on the on a remote database on google cloud\n'
+log(log_message)

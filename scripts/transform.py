@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from write_to_log import log
+import datetime
 import json
 
 # Load the data from a JSON file
@@ -18,5 +19,7 @@ csv_data.drop_duplicates(keep='first', inplace=True)
 
 # Save the transfromed data into a csv file
 csv_data.to_csv('data/processed/processed_data.csv', index=False)
+log_message = f'Message {datetime.datetime.now()}: Transfromed Data has been successfuly saved on the processed directory of the project\n'
+log(log_message)
 
 csv_data = pd.read_csv('data/processed/processed_data.csv')
