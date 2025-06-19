@@ -3,15 +3,19 @@ import requests
 import os
 import datetime
 from write_to_log import log
+from dotenv import load_dotenv
+import os
 import json
 
+load_dotenv('config/.env')
 api_key = os.getenv('API_KEY')
 
 # Extract data from The World Bank using API call
 # - APIKEY is your secret api key from your openWeatherMap account
 # - This will return a data in a json format
-def extract_data(url: str):
+def extract_data(API_KEY: str):
     try:
+        url = f'https://api.aviationstack.com/v1/flights?access_key={api_key}' #replace with actual API_KEY AFTER TESTING
         response = requests.get(url)
         return response.json()
     except:
@@ -20,8 +24,7 @@ def extract_data(url: str):
 
 
 # You can change the url parameters to get different data or change the url all together.
-raw_data = extract_data('https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=100')
-
+raw_data = extract_data(api_key)
 
 if raw_data is None:
     print('An Error has occured, check the program.log file for more details')
@@ -33,7 +36,3 @@ elif isinstance(raw_data, list) or isinstance(raw_data, dict): # Public AIP call
         json.dump(raw_data, f, ensure_ascii=False, indent=4)
     log_message = f'Message {datetime.datetime.now()}: Data has been successfuly saved on the raw directory of the project\n'
     log(log_message)
-
-
-
-

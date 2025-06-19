@@ -1,0 +1,101 @@
+flight_date,flight_status,departure,arrival,airline,flight
+2025-06-19,scheduled,Auckland International,Kerikeri/Bay of Islands,Air New Zealand,5276
+2025-06-19,scheduled,Auckland International,Kerikeri/Bay of Islands,Singapore Airlines,4390
+2025-06-19,scheduled,Auckland International,Kerikeri/Bay of Islands,Air New Zealand,5266
+2025-06-19,scheduled,Auckland International,Kerikeri/Bay of Islands,Singapore Airlines,4388
+2025-06-19,scheduled,Auckland International,Kerikeri/Bay of Islands,Qantas,8524
+2025-06-19,scheduled,Hamilton Island,Brisbane International,empty,
+2025-06-19,scheduled,Bundaberg,Brisbane International,empty,
+2025-06-19,scheduled,Roma,Brisbane International,Rex Regional Express,5717
+2025-06-19,scheduled,Mackay,Brisbane International,Virgin Australia,604
+2025-06-19,scheduled,Mackay,Brisbane International,Qantas,985
+2025-06-19,scheduled,Jackson Field,Brisbane International,Air Niugini,3
+2025-06-19,scheduled,Rockhampton,Brisbane International,Qantas,1871
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Qantas,508
+2025-06-19,scheduled,Rockhampton,Brisbane International,Virgin Australia,1234
+2025-06-19,scheduled,Emerald,Brisbane International,Qantas,1943
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Virgin Australia,917
+2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Virgin Australia,309
+2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Qantas,604
+2025-06-19,scheduled,Williamtown,Brisbane International,Jetstar,482
+2025-06-19,scheduled,Adelaide International Airport,Brisbane International,Virgin Australia,1385
+2025-06-19,scheduled,Adelaide International Airport,Brisbane International,Qantas,1926
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Virgin Australia,913
+2025-06-19,scheduled,Gladstone,Brisbane International,Qantas,2333
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Qantas,504
+2025-06-19,scheduled,Auckland International,Brisbane International,Jetstar,150
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Virgin Australia,909
+2025-06-19,scheduled,Auckland International,Brisbane International,Air New Zealand,143
+2025-06-19,scheduled,Williamtown,Brisbane International,Alliance Airlines,1101
+2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Jetstar,560
+2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Qantas,600
+2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,IndiGo,4819
+2025-06-19,scheduled,Cairns,Brisbane International,Virgin Australia,770
+2025-06-19,scheduled,Cairns,Brisbane International,Singapore Airlines,6461
+2025-06-19,scheduled,Cairns,Brisbane International,Air Canada,2760
+2025-06-19,scheduled,Cairns,Brisbane International,Jetstar,929
+2025-06-19,scheduled,Cairns,Brisbane International,Qantas,5909
+2025-06-19,scheduled,Cairns,Brisbane International,Qantas,1857
+2025-06-19,scheduled,Cairns,Brisbane International,China Southern Airlines,7581
+2025-06-19,scheduled,Cairns,Brisbane International,Air New Zealand,7836
+2025-06-19,scheduled,Auckland International,Brisbane International,Qantas,120
+2025-06-19,scheduled,Auckland International,Brisbane International,China Airlines,8634
+2025-06-19,scheduled,Auckland International,Brisbane International,Air Tahiti Nui,1415
+2025-06-19,scheduled,Auckland International,Brisbane International,China Eastern Airlines,4033
+2025-06-19,scheduled,Auckland International,Brisbane International,LATAM Airlines,4828
+2025-06-19,scheduled,Auckland International,Brisbane International,Emirates,5016
+2025-06-19,scheduled,Auckland International,Brisbane International,AlphaSky,5026
+2025-06-19,scheduled,Auckland International,Brisbane International,American Airlines,7268
+2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Virgin Australia,303
+2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Singapore Airlines,6911
+2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Qatar Airways,6345
+2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Air Canada,2729
+2025-06-19,scheduled,Canberra,Brisbane International,Qantas,2309
+2025-06-19,scheduled,Canberra,Brisbane International,Air New Zealand,7174
+2025-06-19,scheduled,Christchurch International,Brisbane International,Qantas,132
+2025-06-19,scheduled,Christchurch International,Brisbane International,Emirates,5383
+2025-06-19,scheduled,Christchurch International,Brisbane International,China Eastern Airlines,4075
+2025-06-19,scheduled,Christchurch International,Brisbane International,Air New Zealand,205
+2025-06-19,scheduled,Christchurch International,Brisbane International,Virgin Australia,7105
+2025-06-19,scheduled,Christchurch International,Brisbane International,Turkish Airlines,8763
+2025-06-19,scheduled,Christchurch International,Brisbane International,Singapore Airlines,4306
+2025-06-19,scheduled,Christchurch International,Brisbane International,Etihad Airways,4412
+2025-06-19,scheduled,Christchurch International,Brisbane International,Air China LTD,5168
+2025-06-19,scheduled,Christchurch International,Brisbane International,EVA Air,3207
+2025-06-19,scheduled,Christchurch International,Brisbane International,Air Canada,6107
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Qantas,502
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Cathay Pacific,9056
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Air New Zealand,1719
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Emirates,5502
+2025-06-19,scheduled,Coffs Harbour,Brisbane International,Virgin Australia,4024
+2025-06-19,scheduled,Canberra,Brisbane International,Virgin Australia,1207
+2025-06-19,scheduled,Canberra,Brisbane International,Singapore Airlines,6439
+2025-06-19,scheduled,Canberra,Brisbane International,Air Canada,2769
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Virgin Australia,905
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Qatar Airways,7197
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Singapore Airlines,6420
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Hawaiian Airlines,4151
+2025-06-19,scheduled,Townsville International,Brisbane International,Virgin Australia,362
+2025-06-19,scheduled,Townsville International,Brisbane International,Singapore Airlines,6535
+2025-06-19,scheduled,Townsville International,Brisbane International,Qatar Airways,8916
+2025-06-19,scheduled,Townsville International,Brisbane International,Qantas,1992
+2025-06-19,scheduled,Townsville International,Brisbane International,Emirates,5624
+2025-06-19,scheduled,Townsville International,Brisbane International,Air New Zealand,7275
+2025-06-19,scheduled,Mackay,Brisbane International,Virgin Australia,600
+2025-06-19,scheduled,Mackay,Brisbane International,Singapore Airlines,6497
+2025-06-19,scheduled,Coffs Harbour,Brisbane International,empty,552
+2025-06-19,scheduled,Bundaberg,Brisbane International,Qantas,2319
+2025-06-19,scheduled,Bundaberg,Brisbane International,Air New Zealand,7155
+2025-06-19,scheduled,Bundaberg,Brisbane International,Emirates,5543
+2025-06-19,scheduled,Gladstone,Brisbane International,Qantas,1915
+2025-06-19,scheduled,Gladstone,Brisbane International,Emirates,5479
+2025-06-19,scheduled,Gladstone,Brisbane International,Air New Zealand,7260
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Qantas,500
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Hawaiian Airlines,3515
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Cathay Pacific,9054
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,IndiGo,4706
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Air New Zealand,1700
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Emirates,5500
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Jetstar,810
+2025-06-19,scheduled,Tamworth Regional Airport,Brisbane International,Virgin Australia,4026
+2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Virgin Australia,901
