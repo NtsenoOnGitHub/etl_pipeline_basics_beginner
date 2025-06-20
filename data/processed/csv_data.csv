@@ -1,101 +1,101 @@
 flight_date,flight_status,departure,arrival,airline,flight
-2025-06-19,scheduled,Auckland International,Kerikeri/Bay of Islands,Air New Zealand,5276
-2025-06-19,scheduled,Auckland International,Kerikeri/Bay of Islands,Singapore Airlines,4390
-2025-06-19,scheduled,Auckland International,Kerikeri/Bay of Islands,Air New Zealand,5266
-2025-06-19,scheduled,Auckland International,Kerikeri/Bay of Islands,Singapore Airlines,4388
-2025-06-19,scheduled,Auckland International,Kerikeri/Bay of Islands,Qantas,8524
-2025-06-19,scheduled,Hamilton Island,Brisbane International,empty,
-2025-06-19,scheduled,Bundaberg,Brisbane International,empty,
-2025-06-19,scheduled,Roma,Brisbane International,Rex Regional Express,5717
-2025-06-19,scheduled,Mackay,Brisbane International,Virgin Australia,604
-2025-06-19,scheduled,Mackay,Brisbane International,Qantas,985
-2025-06-19,scheduled,Jackson Field,Brisbane International,Air Niugini,3
-2025-06-19,scheduled,Rockhampton,Brisbane International,Qantas,1871
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Qantas,508
-2025-06-19,scheduled,Rockhampton,Brisbane International,Virgin Australia,1234
-2025-06-19,scheduled,Emerald,Brisbane International,Qantas,1943
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Virgin Australia,917
-2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Virgin Australia,309
-2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Qantas,604
-2025-06-19,scheduled,Williamtown,Brisbane International,Jetstar,482
-2025-06-19,scheduled,Adelaide International Airport,Brisbane International,Virgin Australia,1385
-2025-06-19,scheduled,Adelaide International Airport,Brisbane International,Qantas,1926
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Virgin Australia,913
-2025-06-19,scheduled,Gladstone,Brisbane International,Qantas,2333
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Qantas,504
-2025-06-19,scheduled,Auckland International,Brisbane International,Jetstar,150
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Virgin Australia,909
-2025-06-19,scheduled,Auckland International,Brisbane International,Air New Zealand,143
-2025-06-19,scheduled,Williamtown,Brisbane International,Alliance Airlines,1101
-2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Jetstar,560
-2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Qantas,600
-2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,IndiGo,4819
-2025-06-19,scheduled,Cairns,Brisbane International,Virgin Australia,770
-2025-06-19,scheduled,Cairns,Brisbane International,Singapore Airlines,6461
-2025-06-19,scheduled,Cairns,Brisbane International,Air Canada,2760
-2025-06-19,scheduled,Cairns,Brisbane International,Jetstar,929
-2025-06-19,scheduled,Cairns,Brisbane International,Qantas,5909
-2025-06-19,scheduled,Cairns,Brisbane International,Qantas,1857
-2025-06-19,scheduled,Cairns,Brisbane International,China Southern Airlines,7581
-2025-06-19,scheduled,Cairns,Brisbane International,Air New Zealand,7836
-2025-06-19,scheduled,Auckland International,Brisbane International,Qantas,120
-2025-06-19,scheduled,Auckland International,Brisbane International,China Airlines,8634
-2025-06-19,scheduled,Auckland International,Brisbane International,Air Tahiti Nui,1415
-2025-06-19,scheduled,Auckland International,Brisbane International,China Eastern Airlines,4033
-2025-06-19,scheduled,Auckland International,Brisbane International,LATAM Airlines,4828
-2025-06-19,scheduled,Auckland International,Brisbane International,Emirates,5016
-2025-06-19,scheduled,Auckland International,Brisbane International,AlphaSky,5026
-2025-06-19,scheduled,Auckland International,Brisbane International,American Airlines,7268
-2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Virgin Australia,303
-2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Singapore Airlines,6911
-2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Qatar Airways,6345
-2025-06-19,scheduled,Melbourne - Tullamarine Airport,Brisbane International,Air Canada,2729
-2025-06-19,scheduled,Canberra,Brisbane International,Qantas,2309
-2025-06-19,scheduled,Canberra,Brisbane International,Air New Zealand,7174
-2025-06-19,scheduled,Christchurch International,Brisbane International,Qantas,132
-2025-06-19,scheduled,Christchurch International,Brisbane International,Emirates,5383
-2025-06-19,scheduled,Christchurch International,Brisbane International,China Eastern Airlines,4075
-2025-06-19,scheduled,Christchurch International,Brisbane International,Air New Zealand,205
-2025-06-19,scheduled,Christchurch International,Brisbane International,Virgin Australia,7105
-2025-06-19,scheduled,Christchurch International,Brisbane International,Turkish Airlines,8763
-2025-06-19,scheduled,Christchurch International,Brisbane International,Singapore Airlines,4306
-2025-06-19,scheduled,Christchurch International,Brisbane International,Etihad Airways,4412
-2025-06-19,scheduled,Christchurch International,Brisbane International,Air China LTD,5168
-2025-06-19,scheduled,Christchurch International,Brisbane International,EVA Air,3207
-2025-06-19,scheduled,Christchurch International,Brisbane International,Air Canada,6107
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Qantas,502
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Cathay Pacific,9056
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Air New Zealand,1719
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Emirates,5502
-2025-06-19,scheduled,Coffs Harbour,Brisbane International,Virgin Australia,4024
-2025-06-19,scheduled,Canberra,Brisbane International,Virgin Australia,1207
-2025-06-19,scheduled,Canberra,Brisbane International,Singapore Airlines,6439
-2025-06-19,scheduled,Canberra,Brisbane International,Air Canada,2769
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Virgin Australia,905
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Qatar Airways,7197
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Singapore Airlines,6420
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Hawaiian Airlines,4151
-2025-06-19,scheduled,Townsville International,Brisbane International,Virgin Australia,362
-2025-06-19,scheduled,Townsville International,Brisbane International,Singapore Airlines,6535
-2025-06-19,scheduled,Townsville International,Brisbane International,Qatar Airways,8916
-2025-06-19,scheduled,Townsville International,Brisbane International,Qantas,1992
-2025-06-19,scheduled,Townsville International,Brisbane International,Emirates,5624
-2025-06-19,scheduled,Townsville International,Brisbane International,Air New Zealand,7275
-2025-06-19,scheduled,Mackay,Brisbane International,Virgin Australia,600
-2025-06-19,scheduled,Mackay,Brisbane International,Singapore Airlines,6497
-2025-06-19,scheduled,Coffs Harbour,Brisbane International,empty,552
-2025-06-19,scheduled,Bundaberg,Brisbane International,Qantas,2319
-2025-06-19,scheduled,Bundaberg,Brisbane International,Air New Zealand,7155
-2025-06-19,scheduled,Bundaberg,Brisbane International,Emirates,5543
-2025-06-19,scheduled,Gladstone,Brisbane International,Qantas,1915
-2025-06-19,scheduled,Gladstone,Brisbane International,Emirates,5479
-2025-06-19,scheduled,Gladstone,Brisbane International,Air New Zealand,7260
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Qantas,500
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Hawaiian Airlines,3515
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Cathay Pacific,9054
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,IndiGo,4706
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Air New Zealand,1700
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Emirates,5500
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Jetstar,810
-2025-06-19,scheduled,Tamworth Regional Airport,Brisbane International,Virgin Australia,4026
-2025-06-19,scheduled,Sydney Kingsford Smith Airport,Brisbane International,Virgin Australia,901
+2025-06-21,scheduled,Bandar Seri Begwan International Airport,Madras International (Meenambakkam),Royal Brunei Airlines,121
+2025-06-21,scheduled,Hyderabad Airport,Madras International (Meenambakkam),IndiGo,6007
+2025-06-21,scheduled,Hyderabad Airport,Bangalore International Airport,IndiGo,949
+2025-06-21,scheduled,Hyderabad Airport,Bangalore International Airport,Virgin Atlantic,9105
+2025-06-21,scheduled,Hyderabad Airport,Bangalore International Airport,Qantas,5082
+2025-06-21,scheduled,Hyderabad Airport,Bangalore International Airport,Japan Airlines,9618
+2025-06-21,scheduled,Hyderabad Airport,Kuala Lumpur International Airport (klia),Malaysia Airlines,199
+2025-06-21,scheduled,Hyderabad Airport,Kuala Lumpur International Airport (klia),Japan Airlines,7948
+2025-06-21,scheduled,Hyderabad Airport,Chhatrapati Shivaji International (Sahar International),Blue Dart Aviation,154
+2025-06-21,scheduled,Hyderabad Airport,Seeb,IndiGo,1273
+2025-06-21,scheduled,Lohegaon,Netaji Subhas Chandra,IndiGo,6921
+2025-06-21,scheduled,Lohegaon,Indira Gandhi International,IndiGo,2279
+2025-06-21,scheduled,Lohegaon,Indira Gandhi International,Virgin Atlantic,9523
+2025-06-21,scheduled,Lohegaon,Indira Gandhi International,Qantas,5350
+2025-06-21,scheduled,Lohegaon,Indira Gandhi International,Japan Airlines,9682
+2025-06-21,scheduled,Nanjing Lukou International Airport,Haikou,China Postal Airlines,9052
+2025-06-21,scheduled,Nanjing Lukou International Airport,Guangzhou Baiyun International,SF Airlines,7303
+2025-06-21,scheduled,Nanjing Lukou International Airport,Weifang,China Postal Airlines,9028
+2025-06-21,scheduled,Nanjing Lukou International Airport,Beijing Capital International,China Postal Airlines,9087
+2025-06-21,scheduled,Nanjing Lukou International Airport,Shenzhen,China Postal Airlines,9089
+2025-06-21,scheduled,Nanjing Lukou International Airport,Findel,China Postal Airlines,255
+2025-06-21,scheduled,Nanjing Lukou International Airport,Los Angeles International,Suparna Airlines,7491
+2025-06-21,scheduled,Jinjiang,,SF Airlines,7061
+2025-06-21,scheduled,Linyi,Hangzhou,SF Airlines,7031
+2025-06-21,scheduled,Hangzhou,Shenzhen,SF Airlines,7223
+2025-06-21,scheduled,Tianhe International,Shenzhen,SF Airlines,6923
+2025-06-21,scheduled,Hangzhou,Shenzhen,SF Airlines,6832
+2025-06-21,scheduled,Weifang,Shenzhen,Central Airlines,8846
+2025-06-21,scheduled,Lishe International Airport,Shenzhen,SF Airlines,7251
+2025-06-21,scheduled,Nanchang,Shenzhen,SF Airlines,6971
+2025-06-21,scheduled,Jinjiang,Shenzhen,SF Airlines,6822
+2025-06-21,scheduled,Fenghuang International (Phoenix International),Novyy,Aeroflot,851
+2025-06-21,scheduled,Qingdao,Jinan,China Postal Airlines,9048
+2025-06-21,scheduled,Ninoy Aquino International,Seoul (Incheon),Korean Air,620
+2025-06-21,scheduled,Ninoy Aquino International,Nanning,YTO Cargo Airlines,9114
+2025-06-21,scheduled,Ninoy Aquino International,Bacolod,AirAsia,603
+2025-06-21,scheduled,Ninoy Aquino International,Jinjiang,Central Airlines,9802
+2025-06-21,scheduled,Ninoy Aquino International,Nanning,Tianjin Air Cargo,3832
+2025-06-21,scheduled,Ninoy Aquino International,Nanning,Longhao Airlines,4376
+2025-06-21,scheduled,Ninoy Aquino International,Shenzhen,Shenzhen Airlines,206
+2025-06-21,scheduled,Ninoy Aquino International,Shenzhen,Air China LTD,7992
+2025-06-21,scheduled,Ninoy Aquino International,Hangzhou,YTO Cargo Airlines,9080
+2025-06-21,scheduled,Lanzhou Zhongchuan Airport,Nanjing Lukou International Airport,China Postal Airlines,9001
+2025-06-21,scheduled,Civil,Kuala Lumpur International Airport (klia),AirAsia,28
+2025-06-21,scheduled,Port Pirie,Adelaide International Airport,empty,
+2025-06-21,scheduled,Penang International,Chengdu Tianfu International Airport,Sichuan Airlines,3912
+2025-06-21,scheduled,Penang International,Hong Kong International,Hong Kong Express,749
+2025-06-21,scheduled,Penang International,Hong Kong International,Cathay Pacific,5749
+2025-06-21,scheduled,Penang International,Shanghai Pudong International,Juneyao Airlines,1366
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Labuan,Malaysia Airlines,6108
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Labuan,Malaysia Airlines,6102
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Doha International,Qatar Airways,8903
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Changsha,China Southern Airlines,5050
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Doha International,Malaysia Airlines,164
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Zhengzhou,China Southern Airlines,8026
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Nanning,Sichuan Airlines,9356
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Zia International,Biman Bangladesh Airlines,387
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Guangzhou Baiyun International,China Southern Airlines,8072
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Dubai,Emirates,343
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),King Abdulaziz International,Saudia,841
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Ninoy Aquino International,Philippine Airlines,530
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Kansai International,AirAsia X,532
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Shanghai Pudong International,China Eastern Airlines,6022
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),,Cargolux,7545
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Nanning,Sichuan Airlines,9008
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Nanjing Lukou International Airport,China Eastern Airlines,2970
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Shenzhen,Shandong Airlines,2428
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Shenzhen,China Southern Airlines,5080
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Xiamen,Xiamen Airlines,824
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Ninoy Aquino International,Cebu Pacific Air,502
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),King Abdulaziz International,Malaysia Airlines,8278
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Zhengzhou,China Postal Airlines,262
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),,Sichuan Airlines,9032
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Chengdu Tianfu International Airport,Sichuan Airlines,3994
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Beijing Capital International,Air China LTD,872
+2025-06-21,scheduled,Kuala Lumpur International Airport (klia),Perth International,Malindo Air,191
+2025-06-21,scheduled,Phu Bai,Tan Son Nhat International,Vietnam Airlines,7379
+2025-06-21,scheduled,Fuzhou,Nanjing Lukou International Airport,China Postal Airlines,9041
+2025-06-21,scheduled,Fuzhou,Shenzhen,SF Airlines,7047
+2025-06-21,scheduled,Shuangliu,Arlanda,Air China LTD,3157
+2025-06-21,scheduled,Shuangliu,Beijing Daxing International Airport,SF Airlines,7401
+2025-06-21,scheduled,Shuangliu,Shenzhen,SF Airlines,7405
+2025-06-21,scheduled,Shuangliu,Nanjing Lukou International Airport,China Postal Airlines,9095
+2025-06-21,scheduled,Da Nang,Tan Son Nhat International,Vietnam Airlines,6519
+2025-06-21,scheduled,Da Nang,Gimhae,Jin Air,112
+2025-06-21,scheduled,Da Nang,Gimhae,Korean Air,5772
+2025-06-21,scheduled,Da Nang,Cheongju,Aero K,532
+2025-06-21,scheduled,Da Nang,Gimhae,Air Busan,774
+2025-06-21,scheduled,Da Nang,Gimhae,Asiana Airlines,9754
+2025-06-21,scheduled,Da Nang,Seoul (Incheon),Air Seoul,512
+2025-06-21,scheduled,Da Nang,Seoul (Incheon),EASTAR JET,594
+2025-06-21,scheduled,Da Nang,Macau International,Air Macau,9977
+2025-06-21,scheduled,Da Nang,Tan Son Nhat International,empty,6519
+2025-06-21,scheduled,Da Nang,Seoul (Incheon),Jin Air,82
+2025-06-21,scheduled,Da Nang,Seoul (Incheon),Korean Air,5770
+2025-06-21,scheduled,Da Nang,Noibai International,Vietnam Airlines,7090
+2025-06-21,scheduled,Jinjiang,Hangzhou,SF Airlines,7398
+2025-06-21,scheduled,Zhengzhou,Hangzhou,SF Airlines,6915
+2025-06-21,scheduled,Tianhe International,Hangzhou,SF Airlines,7230
+2025-06-21,scheduled,Jinjiang,Hangzhou,SF Airlines,7067
