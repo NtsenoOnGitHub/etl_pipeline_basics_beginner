@@ -34,16 +34,16 @@ engine = sqlalchemy.create_engine(
 # Write Queries here
 csv_data = pd.read_csv('data/processed/processed_data.csv')
 
-query = "INSERT INTO Population (country, country_code, date, population) VALUES "
+query = "INSERT INTO flights (flightdate, flightstatus, departure, arrival, airline, flightnumber) VALUES "
 buildString = ''
 
 for index, row in csv_data.iterrows():
     if index != len(csv_data) - 1:
         buildString = ''
-        buildString += f'(\'{row["Country"]}\', \'{row["Country_code"]}\', \'{row["Date"]}\', {int(row["Population_Value"])}),'
+        buildString += f'(\'{row["flight_date"]}\', \'{row["flight_status"]}\', \'{row["departure"]}\', \'{row["arrival"]}\', \'{row["airline"]}\', \'{row["flight"]}\'),'
         query += buildString
     else:
-        buildString += f'(\'{row["Country"]}\', \'{row["Country_code"]}\', \'{row["Date"]}\', {int(row["Population_Value"])})'
+        buildString += f'(\'{row["flight_date"]}\', \'{row["flight_status"]}\', \'{row["departure"]}\', \'{row["arrival"]}\', \'{row["airline"]}\', \'{row["flight"]}\')'
         query += buildString
 
 with engine.connect() as conn:
