@@ -1,8 +1,11 @@
 # instruction on how to run the project
-Clone the repo
-Create a virtual enviroment inside your repo
-Install all the project dependency using the requirements.txt file
-create the folowwing directory inside the repo ./logs/program.txt
+- Clone the repo
+- Create a virtual enviroment inside your repo
+- Install all the project dependency using the requirements.txt file
+- create the folowwing directory inside the repo ./logs/program.txt
+- create the folowwing directory inside the repo ./config/.env
+- This file contains your keys
+
 
 # Project requiements
 Goal: Collect data from a source, clean and transform it, then store it in a database.
