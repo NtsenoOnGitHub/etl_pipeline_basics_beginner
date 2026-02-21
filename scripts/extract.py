@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 import os
 import json
 
-load_dotenv('config/.env')
+# load_dotenv('config/.env')
 api_key = os.getenv('API_KEY')
 
 # Extract data from The World Bank using API call
@@ -15,7 +15,7 @@ api_key = os.getenv('API_KEY')
 # - This will return a data in a json format
 def extract_data(API_KEY: str):
     try:
-        url = f'https://api.aviationstack.com/v1/flights?access_key={api_key}' #replace with actual API_KEY AFTER TESTING
+        url = f'https://api.aviationstack.com/v1/flights?access_key={API_KEY}' #replace with actual API_KEY AFTER TESTING
         response = requests.get(url)
         return response.json()
     except:
