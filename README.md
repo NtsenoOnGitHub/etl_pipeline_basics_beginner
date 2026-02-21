@@ -1,4 +1,4 @@
-#instruction on how to run the project
+# instruction on how to run the project
 Clone the repo
 Create a virtual enviroment inside your repo
 Install all the project dependency using the requirements.txt file
