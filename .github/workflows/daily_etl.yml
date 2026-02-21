@@ -2,7 +2,7 @@ name: Daily ETL Pipeline
 
 on:
   schedule:
-    - cron: "27 17  * * *"   # Runs daily at 06:00 UTC (08:00 Johannesburg)
+    - cron: "32 15  * * *"   # Runs daily at 06:00 UTC (08:00 Johannesburg)
   workflow_dispatch:
 
 jobs:
