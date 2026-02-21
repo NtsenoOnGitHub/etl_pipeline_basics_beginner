@@ -1,0 +1,29 @@
+name: Require branch to include dev
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  check-dev-history:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch all branches
+        run: git fetch origin
+
+      - name: Verify branch contains latest dev
+        run: |
+          git fetch origin dev
+          DEV_COMMIT=$(git rev-parse origin/dev)
+          echo "Latest dev commit: $DEV_COMMIT"
+
+          if git merge-base --is-ancestor $DEV_COMMIT HEAD; then
+            echo "✅ Branch includes latest dev"
+          else
+            echo "❌ Branch does NOT include latest dev"
+            exit 1
+          fi
