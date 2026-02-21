@@ -45,6 +45,12 @@ jobs:
         run: |
           python scripts/extract.py
 
+      - name: Upload raw data
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-data
+          path: data/raw/raw_data.json
+
       - name: Success message
         if: success()
         run: echo "ETL Pipeline completed successfully."
