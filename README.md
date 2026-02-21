@@ -1,3 +1,9 @@
+#instruction on how to run the project
+Clone the repo
+Create a virtual enviroment inside your repo
+Install all the project dependency using the requirements.txt file
+create the folowwing directory inside the repo ./logs/program.txt
+
 # Project requiements
 Goal: Collect data from a source, clean and transform it, then store it in a database.
 Steps:
